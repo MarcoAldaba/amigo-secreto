@@ -45,7 +45,7 @@ function agregarAmigo() {
         nroAmigos = amigos.length;
         console.log(amigos);
     }else{
-        alert("Por favor, ingrese un nombre válido.");
+        alert("Por favor, inserte un nombre.");
     }
 }
 
